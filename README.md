@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TerraAdama
+- 🥰 I am a web developer
+- 👀 I’m interested in sports, travel, and reading.
+- 🌱 I’m currently learning  java and angular.
